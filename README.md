@@ -20,7 +20,7 @@ i'm also on my way of studying systems and computer engineering at university, b
 ![html5](https://img.shields.io/badge/html5-%23F7C5CC?style=for-the-badge&logo=html5&logoColor=ffffff&labelColor=%23F4A7B9)
 ![css3](https://img.shields.io/badge/css3-%23D8C8F5?style=for-the-badge&logo=css&logoColor=ffffff&labelColor=%23C3AEEA)
 ![javascript](https://img.shields.io/badge/javascript-%23FAE58A?style=for-the-badge&logo=javascript&logoColor=ffffff&labelColor=%23F5C96A)
-![Static Badge](https://img.shields.io/badge/Electron-%23A8DADC?style=for-the-badge&logo=electron&logoColor=%23FFFFFF&labelColor=%238FCACA)  
+![electron](https://img.shields.io/badge/Electron-%23A8DADC?style=for-the-badge&logo=electron&logoColor=%23FFFFFF&labelColor=%238FCACA)  
 
 ୨୧ ⏔⏔⏔⏔♡⏔⏔⏔⏔ ୨୧  
 
