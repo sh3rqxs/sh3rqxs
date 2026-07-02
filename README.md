@@ -1,15 +1,17 @@
 # 𖥻 ׁ ׅ hi, i’m sher ! ׁ ׅ 🌸
 
-```
+```bash
 ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆.
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　　　.　　. 　 ˚　.　　　　 　　 　　　　 ✦
 ```
 
 ✿ **ui/ux designer** & **frontend developer** ✿
 
-crafting cute, pretty and fun experiences with lots of love, because code deserves to be beautiful too! (˶>⩊<˶)
+crafting cute, pretty and fun experiences with lots of love that people can actually use and enjoy!  
 
-i'm also on my way of studying systems and computer engineering at university, because i'm just as passionate about how technology works on the inside as i'm about making it look beautiful on the outside. ✧˖°
+right now i'm exploring desktop app development with electron and other similar tools, mixing my love for pretty interfaces with the curiosity of learning how apps live outside the browser.
+
+also, i'm on my way of studying systems and computer engineering at university, because i'm just as passionate about how technology works on the inside as i'm about making it look beautiful on the outside. ✧˖°
 
 ୨୧ ⏔⏔⏔⏔♡⏔⏔⏔⏔ ୨୧ 
 
@@ -20,8 +22,8 @@ i'm also on my way of studying systems and computer engineering at university, b
 ![html5](https://img.shields.io/badge/html5-%23F7C5CC?style=for-the-badge&logo=html5&logoColor=ffffff&labelColor=%23F4A7B9)
 ![css3](https://img.shields.io/badge/css3-%23D8C8F5?style=for-the-badge&logo=css&logoColor=ffffff&labelColor=%23C3AEEA)
 ![javascript](https://img.shields.io/badge/javascript-%23FAE58A?style=for-the-badge&logo=javascript&logoColor=ffffff&labelColor=%23F5C96A)
-![electron](https://img.shields.io/badge/Electron-%23A8DADC?style=for-the-badge&logo=electron&logoColor=%23FFFFFF&labelColor=%238FCACA)  
+![electron](https://img.shields.io/badge/electron-%239AD4CB?style=for-the-badge&logo=Electron&logoColor=ffffff&labelColor=%2362BDBD) 
 
 ୨୧ ⏔⏔⏔⏔♡⏔⏔⏔⏔ ୨୧  
 
-<img src="https://github-readme-widget.vercel.app/api/pet">
+<img src="https://github-readme-widget.vercel.app/api/pet" width="300"/>
