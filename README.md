@@ -1,6 +1,6 @@
 # 𖥻 ׁ ׅ hi, i’m sher ! ׁ ׅ 🌸
 
-```bash
+```
 ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆.
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　　　.　　. 　 ˚　.　　　　 　　 　　　　 ✦
 ```
@@ -9,9 +9,9 @@
 
 crafting cute, pretty and fun experiences with lots of love that people can actually use and enjoy!  
 
-right now i'm exploring desktop app development with electron and other similar tools, mixing my love for pretty interfaces with the curiosity of learning how apps live outside the browser.
+right now i'm exploring desktop app development with electron and other similar tools, mixing my love for pretty interfaces with the curiosity of learning how apps live outside the browser. ✧˖°
 
-also, i'm on my way of studying systems and computer engineering at university, because i'm just as passionate about how technology works on the inside as i'm about making it look beautiful on the outside. ✧˖°
+⤷ ゛check out my pinned projects! ˎˊ˗
 
 ୨୧ ⏔⏔⏔⏔♡⏔⏔⏔⏔ ୨୧ 
 
