@@ -1,6 +1,6 @@
 # 𖥻 ׁ ׅ hi, i’m sher ! ׁ ׅ 🌸
 
-```
+```art
 ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆.
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　　　.　　. 　 ˚　.　　　　 　　 　　　　 ✦
 ```
@@ -11,7 +11,7 @@ crafting cute, pretty and fun experiences with lots of love that people can actu
 
 right now i'm exploring desktop app development with electron and other similar tools, mixing my love for pretty interfaces with the curiosity of learning how apps live outside the browser. ✧˖°
 
-⤷ ゛check out my pinned projects! ˎˊ˗
+**⤷ ゛check out my pinned projects! ˎˊ˗**
 
 ୨୧ ⏔⏔⏔⏔♡⏔⏔⏔⏔ ୨୧ 
 
@@ -26,4 +26,4 @@ right now i'm exploring desktop app development with electron and other similar 
 
 ୨୧ ⏔⏔⏔⏔♡⏔⏔⏔⏔ ୨୧  
 
-<img src="https://github-readme-widget.vercel.app/api/pet" width="300"/>
+<img src="https://github-readme-widget.vercel.app/api/pet" width="300" />
